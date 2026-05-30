@@ -111,7 +111,7 @@ pip install httpx rich
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/http-headers-scanner.git
+git clone https://github.com/Dickson1g1/password-manager.git
 cd http-headers-scanner
 python3 -m venv .venv && source .venv/bin/activate
 pip install httpx rich
